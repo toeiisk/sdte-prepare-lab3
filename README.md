@@ -26,6 +26,6 @@
 </html>
 ```
 6. Commit & Push
-7. สร้าง Pull Request เข้ามาที่ Repo หลัก
+7. สร้าง Pull Request เข้ามาที่ Repo หลัก โดยตั้งหัวข้อ PR ดังนี้ `รหัสนักศึกษา - Add profile` เช่น `53070077 - Add profile`
 8. หากมี Conflict ในขั้นตอนการ Merge เกิดขึ้นให้แก้ไขให้เรียบร้อย
-9. Lab จะเสร็จสิ้นเมื่อ PR ผ่าน และได้ Merge เข้า Branch main แล้ว
+9. Lab จะเสร็จสิ้นเมื่อ PR ผ่าน และได้ Merge เข้า Branch main แล้ว สามารถดูผลลัพธ์การ Merge ได้ผ่าน Github pages https://saranonuan.github.io/sdte-lab3/
